@@ -9,7 +9,7 @@ Prerequisites
 Steps to Run – 
 •	Below is the command to execute the Jar accepts Pipe separated startup file as argument.
 
-  java -jar FileDelivery.jar <PATH-TO-STARTUP-FILE>
+  java -jar FileDelivery.jar PATH-TO-STARTUP-FILE
   
 Application Overview – 
 
